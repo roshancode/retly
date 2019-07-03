@@ -1,4 +1,3 @@
-# Retly
 ![alt text](logo.png)
 
 
