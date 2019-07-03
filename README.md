@@ -1,5 +1,5 @@
 # Retly
-[./logo.png](logo.png)
+(logo.png)
 
 
 I decided to rebuild Linkedin.com using React.js due to its rising popularity putting in mind the latest trends applied in the framework.
