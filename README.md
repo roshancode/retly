@@ -1,5 +1,5 @@
 ![alt text](logo.png)
-(The logo's background needs to be changed)
+
 
 I decided to rebuild Linkedin.com using React.js due to its rising popularity putting in mind the latest trends applied in the framework.
 # Features of Retly
